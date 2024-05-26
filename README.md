@@ -3,9 +3,6 @@
 
 ![p12w1](https://github.com/shammisk/weather-app/assets/99946678/ccb3f89d-5349-4d1c-8a86-907918a80af5)
 
-![p12w2](https://github.com/shammisk/weather-app/assets/99946678/0b99545b-3640-47b6-90dc-0a014cf388c2)
-
-
 
 The Interactive Weather Application is a dynamic web app developed using the ReactJS framework. This application provides users with real-time weather information for any city they search. Leveraging the OpenWeatherMap API, the app fetches comprehensive weather data, including temperature, wind speed, humidity, and more, for various global locations.
 
@@ -19,6 +16,7 @@ The Interactive Weather Application is a dynamic web app developed using the Rea
 ## Technologies Used
 
 - ReactJS
+- CSS
 - OpenWeatherMap API
 
 ## Usage
@@ -51,13 +49,7 @@ To run this application locally:
 
 5. Open your browser and visit `http://localhost:3000` to view the application.
 
-## Contributing
 
-Contributions are welcome! Please feel free to open a pull request or submit an issue if you encounter any problems or have suggestions for improvements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
