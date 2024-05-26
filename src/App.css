@@ -9,7 +9,7 @@ html {
 
 .app-name {
   font-size: 2.3rem;
-  color: rgb(17, 144, 0);
+  color: rgb(90, 10, 136);
   margin-bottom: 16px;
 }
 
@@ -20,7 +20,7 @@ html {
   align-items: center;
   width: 600px;
   min-height: 440px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(165, 144, 183);
   text-align: center;
   margin: 128px auto;
   border-radius: 10px;
